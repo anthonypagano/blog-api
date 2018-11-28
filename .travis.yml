@@ -3,7 +3,7 @@ node_js: node
 deploy:
   provider: heroku
   api_key:
-    secure: rYl+vcEzq7TFY4AB39RJWDXU/AzxcOy8uCoOzsEdEINGH7ZQtMBKGCy8D4bNd6ysewTwIWW4FPBJI5f1JrmYB/QMv9gL7LTLzZfYfUoqT0UY6CTIxpz0diEAIDhGkjNdNYeD5y7oANLIo6uf4AsKfA+7YOjEQrAq/A9BA/HpWOnByBGmiZ8+JfSF3IfQg3bzKy1laTXPFAn0DvbbQwouQm7jeVbqEOOjQIi4Q38d4yOSsJB1yFx0DHjiYBo4jqEs8PhU5ITXpxHclrZFBBReaNEIj24s7AalYSywUy2QJ3MeswIOBlooBwwjb/eTrW45hnN6DD2ma9V/lxnrb2qx8j/B5bgyJR5xRSk7ef+R5TAFE5YFsyaEgOBgsR3XqTOsmg1A5w7HyMQK5xASepyrN5a02/D93o5ZsEPwnt7opTiJz2wVItrYVT8bGaP7/B8u206C/qkso/yNF1+G9zNe8mIblA+8/Tm+OB7KTu6B+a/9HX0YSNPlQVTqfmnDDB0TfUbLHFE8VSpBlKAovRkKs9ebblUt5CeU/iXh+TSTx6a07zxBBOpm1GSdq05Uzdpo/tCk1CBVqBEo9xoTIeRmLnfIAPXmBiifudfqfri62c9Ubf1rJTjW9wDx81eT2KKdwpyy8WF7r9eEPv9vjynqryGXTAICq3fc9OvWJqJtimQ=
+    secure: 3d1dcf89-2035-4fe9-b681-9ebad93b93bf
   app: obscure-coast-30830
   on:
     repo: anthonypagano/blog-api
